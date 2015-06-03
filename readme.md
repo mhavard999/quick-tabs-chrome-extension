@@ -1,4 +1,4 @@
-
+I forked this because I hate the way it's string matching algorithm, so I'm gonna try to change it to something I prefer.
 
 # INTRODUCTION
 
